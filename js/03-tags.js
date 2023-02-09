@@ -21,7 +21,7 @@
 //   // if (currentActiveBtn) {
 //   //   currentActiveBtn.classList.remove('tags__btn--active');
 //   // }
-//   //*Відповідник верхньому if
+//   //*Відповідник верхньому прикладу if
 //   currentActiveBtn?.classList.remove('tags__btn--active');
 
 //   evt.target.classList.add('tags__btn--active');
